@@ -5,5 +5,8 @@ for Arduino Embeded devices. It implements all major features of a real FileSyst
 including directories (at root level).
 
 ## Contents
+- [License and credits](#license-and-credits)
 
+### License and credits ###
 
+Arduino IDE is developed and maintained by the Arduino team. The IDE is licensed under GPL.
