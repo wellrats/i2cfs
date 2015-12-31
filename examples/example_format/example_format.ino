@@ -14,6 +14,7 @@ void setup() {
 }
 
 void loop() {
+
   delay(5000);
   printf_P(PSTR("Formatting ...\n"));
   fs.format(32); // 24LC256 // 32 Kb
@@ -22,5 +23,6 @@ void loop() {
   fs.master_block.print();
   #endif
   while(1);
+
 }
 
